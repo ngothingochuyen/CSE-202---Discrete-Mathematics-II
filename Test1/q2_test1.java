@@ -1,0 +1,67 @@
+
+import java.util.*;
+
+public class q2_test1 {
+
+    static Scanner sc = new Scanner(System.in);
+    static StringBuilder sb = new StringBuilder();
+
+    public static void main(String[] args) {
+        int n = sc.nextInt();
+        int m = sc.nextInt();
+        Vertex[] vertices = read(n, m);
+        List<Vertex> visited = new ArrayList<>();
+
+        for (Vertex v : visited) {
+            sb.append(v.id + " ");
+        }
+        System.out.println(sb);
+
+    }
+
+    public static long dfs(Vertex v, List<Vertex> visited, long time) {
+        v.visited = true;
+        time++;
+        v.discoverTime = time;
+        visited.add(v);
+        // v.neighbors.sort((a, b) -> a.id - b.id);
+        for (Vertex x : v.neighbors) {
+            if (!x.visited) {
+                time = dfs(x, visited, time);
+            }
+        }
+        time++;
+        v.finishTime = time;
+        return time;
+    }
+
+    public static Vertex[] read(int n, int m) {
+        Vertex[] vertices = new Vertex[n];
+        for (int i = 0; i < n; i++) {
+            vertices[i] = new Vertex(i);
+        }
+        for (int i = 0; i < m; i++) {
+            int u = sc.nextInt();
+            int v = sc.nextInt();
+            vertices[u].addNeighbor(vertices[v]);
+        }
+        return vertices;
+    }
+
+    static class Vertex {
+
+        int id;
+        long discoverTime, finishTime;
+        boolean visited = false;
+        List<Vertex> neighbors = new ArrayList<>();
+
+        public Vertex(int id) {
+            this.id = id;
+        }
+
+        public void addNeighbor(Vertex v) {
+            neighbors.add(v);
+        }
+    }
+
+}

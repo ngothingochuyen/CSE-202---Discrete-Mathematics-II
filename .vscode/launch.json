@@ -1,0 +1,455 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SpanningTree",
+            "request": "launch",
+            "mainClass": "SpanningTree",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "ShortestPath",
+            "request": "launch",
+            "mainClass": "ShortestPath",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "TreeHeight",
+            "request": "launch",
+            "mainClass": "TreeHeight",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "IsTree",
+            "request": "launch",
+            "mainClass": "IsTree",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "Overflow",
+            "request": "launch",
+            "mainClass": "Overflow",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "Topo",
+            "request": "launch",
+            "mainClass": "Topo",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "Bipartite",
+            "request": "launch",
+            "mainClass": "Bipartite",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "BFSdirected",
+            "request": "launch",
+            "mainClass": "BFSdirected",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "FBfriendV1",
+            "request": "launch",
+            "mainClass": "FBfriendV1",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "ConnectedComp3",
+            "request": "launch",
+            "mainClass": "ConnectedComp3",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "ConnectedComp2",
+            "request": "launch",
+            "mainClass": "ConnectedComp2",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "ConnectedComp",
+            "request": "launch",
+            "mainClass": "ConnectedComp",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "DFSdirected",
+            "request": "launch",
+            "mainClass": "DFSdirected",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "FriendSuggestion",
+            "request": "launch",
+            "mainClass": "FriendSuggestion",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "FBfriends",
+            "request": "launch",
+            "mainClass": "FBfriends",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "MakeFriends",
+            "request": "launch",
+            "mainClass": "MakeFriends",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIHCONf",
+            "request": "launch",
+            "mainClass": "EIHCONf",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "Degree",
+            "request": "launch",
+            "mainClass": "Degree",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "CutVertex",
+            "request": "launch",
+            "mainClass": "CutVertex",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "Bridge",
+            "request": "launch",
+            "mainClass": "Bridge",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIBONUS2",
+            "request": "launch",
+            "mainClass": "EIBONUS2",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EICONf",
+            "request": "launch",
+            "mainClass": "EICONf",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EILOCALA",
+            "request": "launch",
+            "mainClass": "weight_longest_shorted.EILOCALA",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIMINDISTA0",
+            "request": "launch",
+            "mainClass": "EIMINDISTA0",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIUCIRCUIT",
+            "request": "launch",
+            "mainClass": "EIUCIRCUIT",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIMINSPAN",
+            "request": "launch",
+            "mainClass": "EIMINSPAN",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIUMLMK2",
+            "request": "launch",
+            "mainClass": "EIUMLMK2",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIMULEMA",
+            "request": "launch",
+            "mainClass": "EIMULEMA",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIUSEFI2",
+            "request": "launch",
+            "mainClass": "EIUSEFI2",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "wbt",
+            "request": "launch",
+            "mainClass": "wbt",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIMINDISTA",
+            "request": "launch",
+            "mainClass": "EIMINDISTA",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "Dijsktra",
+            "request": "launch",
+            "mainClass": "Dijsktra",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIGREENCITY",
+            "request": "launch",
+            "mainClass": "EIGREENCITY",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIMAXHTR",
+            "request": "launch",
+            "mainClass": "EIMAXHTR",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EITREHE1",
+            "request": "launch",
+            "mainClass": "EITREHE1",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EILOCALA",
+            "request": "launch",
+            "mainClass": "EILOCALA",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EICHTTRE",
+            "request": "launch",
+            "mainClass": "EICHTTRE",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EITRGROUP",
+            "request": "launch",
+            "mainClass": "EITRGROUP",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "WTRABS",
+            "request": "launch",
+            "mainClass": "WTRABS",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIPRF",
+            "request": "launch",
+            "mainClass": "EIPRF",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "BIPARTITE",
+            "request": "launch",
+            "mainClass": "BIPARTITE",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIFBFs2",
+            "request": "launch",
+            "mainClass": "EIFBFs2",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIUDFS2",
+            "request": "launch",
+            "mainClass": "EIUDFS2",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIBIRTHDAY",
+            "request": "launch",
+            "mainClass": "EIBIRTHDAY",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIUSUFBF",
+            "request": "launch",
+            "mainClass": "EIUSUFBF",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIFACEBOOK",
+            "request": "launch",
+            "mainClass": "EIFACEBOOK",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIMKF",
+            "request": "launch",
+            "mainClass": "EIMKF",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIHCON",
+            "request": "launch",
+            "mainClass": "EIHCON",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIUDEG",
+            "request": "launch",
+            "mainClass": "EIUDEG",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EICON",
+            "request": "launch",
+            "mainClass": "EICON",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIBIPARTITE",
+            "request": "launch",
+            "mainClass": "EIBIPARTITE",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIPEOYMK",
+            "request": "launch",
+            "mainClass": "Lab3.EIPEOYMK",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIPEOYMK",
+            "request": "launch",
+            "mainClass": "EIPEOYMK",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIFOLTRE",
+            "request": "launch",
+            "mainClass": "EIFOLTRE",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIUDFS1",
+            "request": "launch",
+            "mainClass": "EIUDFS1",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIUBFS2",
+            "request": "launch",
+            "mainClass": "EIUBFS2",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIUBFS1",
+            "request": "launch",
+            "mainClass": "EIUBFS1",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIFBFs",
+            "request": "launch",
+            "mainClass": "EIFBFs",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EIFBF",
+            "request": "launch",
+            "mainClass": "EIFBF",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EICONP",
+            "request": "launch",
+            "mainClass": "EICONP",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EICONP1",
+            "request": "launch",
+            "mainClass": "EICONP1",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "EICONP3",
+            "request": "launch",
+            "mainClass": "EICONP3",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "ExInClass",
+            "request": "launch",
+            "mainClass": "ExInClass",
+            "projectName": "CSE 202_f719d050"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
